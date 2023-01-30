@@ -6,3 +6,5 @@ To start and visualize the project external library algs4.jar should be added to
 https://algs4.cs.princeton.edu/code/algs4.jar
 
 Use PecolationVisualizer class in order to start project.
+
+You can find a lot of *.txt files for testing and *.png files to check correctness.
